@@ -22,7 +22,7 @@
                 "raise": "100k",
                 "val": "2.8M",
                 "allocation": "$0",
-                "progress": "25",
+                "progress": "25%",
                 "mecha": "0/100,069 MECHA",
                 "busd": "0 BUSD"
             },
@@ -35,7 +35,7 @@
                 "raise": "85k",
                 "val": "1.9M",
                 "allocation": "$0",
-                "progress": "8",
+                "progress": "8%",
                 "mecha": "0/94,752 MECHA",
                 "busd": "0 BUSD"
             },
@@ -48,7 +48,7 @@
                 "raise": "69k",
                 "val": "3.2M",
                 "allocation": "$0",
-                "progress": "12",
+                "progress": "12%",
                 "mecha": "0/87,074 MECHA",
                 "busd": "0 BUSD"
             },
@@ -61,7 +61,7 @@
                 "raise": "90k",
                 "val": "2.6M",
                 "allocation": "$0",
-                "progress": "27",
+                "progress": "27%",
                 "mecha": "0/532,399 MECHA",
                 "busd": "0 BUSD"
             },
@@ -74,7 +74,7 @@
                 "raise": "120k",
                 "val": "4.8M",
                 "allocation": "$0",
-                "progress": "42",
+                "progress": "42%",
                 "mecha": "0/298,064 MECHA",
                 "busd": "0 BUSD"
             },
@@ -87,7 +87,7 @@
                 "raise": "89k",
                 "val": "4.6M",
                 "allocation": "$0",
-                "progress": "36",
+                "progress": "36%",
                 "mecha": "0/396,074 MECHA",
                 "busd": "0 BUSD"
             }
@@ -208,6 +208,62 @@
                 "title": "6997",
                 "className": "card no-hover staking-card",
                 "content": "Number of Stakers"
+            }
+        ]
+    },
+    "social": {
+        "socialData": [
+            {
+                "id": 1,
+                "link": "twitter",
+                "icon": "fab fa-twitter"
+            },
+            {
+                "id": 2,
+                "link": "telegram",
+                "icon": "fab fa-telegram"
+            },
+            {
+                "id": 3,
+                "link": "globe",
+                "icon": "fas fa-globe"
+            },
+            {
+                "id": 4,
+                "link": "discord",
+                "icon": "fab fa-discord"
+            }
+        ],
+        "socialDataTwo": [
+            {
+                "id": 1,
+                "link": "https://www.facebook.com/",
+                "icon": "icon-social-facebook"
+            },
+            {
+                "id": 2,
+                "link": "https://twitter.com/",
+                "icon": "icon-social-twitter"
+            },
+            {
+                "id": 3,
+                "link": "https://www.linkedin.com/",
+                "icon": "icon-social-linkedin"
+            },
+            {
+                "id": 4,
+                "link": "https://www.reddit.com/",
+                "icon": "icon-social-reddit"
+            },
+            {
+                "id": 5,
+                "link": "https://discord.com/",
+                "icon": "icon-social-vkontakte"
+            },
+            {
+                "id": 6,
+                "link": "https://www.youtube.com/",
+                "icon": "icon-social-youtube"
             }
         ]
     }
