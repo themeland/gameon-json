@@ -69,12 +69,92 @@
             {
                 "id": 1,
                 "tabID": "tab-one-tab",
+                "tabClass": "tab-link active",
                 "tabHref": "tab-one",
                 "title": "7 Days",
                 "lock": "Yes",
                 "fee": "30%",
                 "status": "Unlocked",
                 "apy": "0%"
+            },
+            {
+                "id": 2,
+                "tabID": "tab-two-tab",
+                "tabClass": "tab-link",
+                "tabHref": "tab-two",
+                "title": "14 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "0%"
+            },
+            {
+                "id": 3,
+                "tabID": "tab-three-tab",
+                "tabClass": "tab-link",
+                "tabHref": "tab-three",
+                "title": "30 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "0%"
+            },
+            {
+                "id": 4,
+                "tabID": "tab-four-tab",
+                "tabClass": "tab-link",
+                "tabHref": "tab-four",
+                "title": "60 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "0%"
+            }
+        ],
+        "tabContent": [
+            {
+                "id": 1,
+                "tabID": "tab-one-tab",
+                "tabClass": "tab-pane fade show active",
+                "tabHref": "tab-one",
+                "period": "7 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "0%"
+            },
+            {
+                "id": 2,
+                "tabID": "tab-two-tab",
+                "tabClass": "tab-pane fade",
+                "tabHref": "tab-two",
+                "period": "14 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "12%"
+            },
+            {
+                "id": 3,
+                "tabID": "tab-three-tab",
+                "tabClass": "tab-pane fade",
+                "tabHref": "tab-three",
+                "period": "30 Days",
+                "lock": "Yes",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "25%"
+            },
+            {
+                "id": 4,
+                "tabID": "tab-four-tab",
+                "tabClass": "tab-pane fade",
+                "tabHref": "tab-four",
+                "period": "60 Days",
+                "lock": "No",
+                "fee": "30%",
+                "status": "Unlocked",
+                "apy": "35%"
             }
         ],
         "features": [
