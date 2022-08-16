@@ -98,30 +98,12 @@
             }
         ]
     },
-    "social": {
+    "footer": {
+        "img": "/img/logo.png",
+        "copyright": "©2022 Gameon, All Rights Reserved By",
+        "owner": "Themeland",
+        "ownerLink": "https://themeforest.net/user/theme_land",
         "socialData": [
-            {
-                "id": 1,
-                "link": "twitter",
-                "icon": "fab fa-twitter"
-            },
-            {
-                "id": 2,
-                "link": "telegram",
-                "icon": "fab fa-telegram"
-            },
-            {
-                "id": 3,
-                "link": "globe",
-                "icon": "fas fa-globe"
-            },
-            {
-                "id": 4,
-                "link": "discord",
-                "icon": "fab fa-discord"
-            }
-        ],
-        "socialDataTwo": [
             {
                 "id": 1,
                 "link": "https://www.facebook.com/",
@@ -151,6 +133,33 @@
                 "id": 6,
                 "link": "https://www.youtube.com/",
                 "icon": "icon-social-youtube"
+            }
+        ],
+        "widgetData": [
+            {
+                "id": 1,
+                "text": "Features",
+                "link": "/blog"
+            },
+            {
+                "id": 2,
+                "text": "Roadmap",
+                "link": "/blog"
+            },
+            {
+                "id": 3,
+                "text": "How It Works",
+                "link": "/blog"
+            },
+            {
+                "id": 4,
+                "text": "Blog",
+                "link": "/blog"
+            },
+            {
+                "id": 5,
+                "text": "Privacy Policy",
+                "link": "/blog"
             }
         ]
     }
