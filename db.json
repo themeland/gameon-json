@@ -100,8 +100,8 @@
         "tabContent": [
             {
                 "id": 1,
-                "tabID": "tab-one-tab",
-                "tabClass": "tab-pane fade active",
+                "tabID": "tab-one",
+                "tabClass": "tab-pane fade show active",
                 "tabLink": "tab-one",
                 "period": "7 Days",
                 "lock": "Yes",
@@ -111,7 +111,7 @@
             },
             {
                 "id": 2,
-                "tabID": "tab-two-tab",
+                "tabID": "tab-two",
                 "tabClass": "tab-pane fade",
                 "tabLink": "tab-two",
                 "period": "14 Days",
@@ -122,7 +122,7 @@
             },
             {
                 "id": 3,
-                "tabID": "tab-three-tab",
+                "tabID": "tab-three",
                 "tabClass": "tab-pane fade",
                 "tabLink": "tab-three",
                 "period": "30 Days",
@@ -133,7 +133,7 @@
             },
             {
                 "id": 4,
-                "tabID": "tab-four-tab",
+                "tabID": "tab-four",
                 "tabClass": "tab-pane fade",
                 "tabLink": "tab-four",
                 "period": "60 Days",
