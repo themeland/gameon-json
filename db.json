@@ -65,50 +65,36 @@
         "balance": "256.50 BUSD",
         "content": "Once staked, you need to register for every IDO, so we can calculate the guaranteed allocation. Once registered, we lock your tokens, but you still can participate in other IDOs.",
         "note": "*APY is dynamic.",
+        "input_btn_1": "Approve",
+        "input_btn_2": "Withdraw",
         "tabData": [
             {
                 "id": 1,
                 "tabID": "tab-one-tab",
                 "tabClass": "tab-link active",
-                "tabHref": "tab-one",
-                "title": "7 Days",
-                "lock": "Yes",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "0%"
+                "tabLink": "#tab-one",
+                "title": "7 Days"
             },
             {
                 "id": 2,
                 "tabID": "tab-two-tab",
                 "tabClass": "tab-link",
-                "tabHref": "tab-two",
-                "title": "14 Days",
-                "lock": "Yes",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "0%"
+                "tabLink": "#tab-two",
+                "title": "14 Days"
             },
             {
                 "id": 3,
                 "tabID": "tab-three-tab",
                 "tabClass": "tab-link",
-                "tabHref": "tab-three",
-                "title": "30 Days",
-                "lock": "Yes",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "0%"
+                "tabLink": "#tab-three",
+                "title": "30 Days"
             },
             {
                 "id": 4,
                 "tabID": "tab-four-tab",
                 "tabClass": "tab-link",
-                "tabHref": "tab-four",
-                "title": "60 Days",
-                "lock": "Yes",
-                "fee": "30%",
-                "status": "Unlocked",
-                "apy": "0%"
+                "tabLink": "#tab-four",
+                "title": "60 Days"
             }
         ],
         "tabContent": [
@@ -116,7 +102,7 @@
                 "id": 1,
                 "tabID": "tab-one-tab",
                 "tabClass": "tab-pane fade show active",
-                "tabHref": "tab-one",
+                "tabLink": "tab-one",
                 "period": "7 Days",
                 "lock": "Yes",
                 "fee": "30%",
@@ -127,7 +113,7 @@
                 "id": 2,
                 "tabID": "tab-two-tab",
                 "tabClass": "tab-pane fade",
-                "tabHref": "tab-two",
+                "tabLink": "tab-two",
                 "period": "14 Days",
                 "lock": "Yes",
                 "fee": "30%",
@@ -138,7 +124,7 @@
                 "id": 3,
                 "tabID": "tab-three-tab",
                 "tabClass": "tab-pane fade",
-                "tabHref": "tab-three",
+                "tabLink": "tab-three",
                 "period": "30 Days",
                 "lock": "Yes",
                 "fee": "30%",
@@ -149,7 +135,7 @@
                 "id": 4,
                 "tabID": "tab-four-tab",
                 "tabClass": "tab-pane fade",
-                "tabHref": "tab-four",
+                "tabLink": "tab-four",
                 "period": "60 Days",
                 "lock": "No",
                 "fee": "30%",
