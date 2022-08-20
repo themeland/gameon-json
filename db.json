@@ -164,6 +164,47 @@
             }
         ]
     },
+    "farming": {
+        "title": "Participate IGO Stake",
+        "category": "Game",
+        "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC making it over.",
+        "input_title_1": "Deposit",
+        "input_title_2": "Withdraw",
+        "input_btn_1": "Approve",
+        "input_btn_2": "Withdraw",
+        "reward_title": "Pending rewards",
+        "reward": "0.00 BUSD",
+        "reward_content": "Rewards are depleted, ask admins to fund it.",
+        "reward_icon": "fa-solid fa-lock mr-1",
+        "actionBtn": "Claim",
+        "farmingData": [
+            {
+                "id": 1,
+                "title": "Staked",
+                "content": "0 LP"
+            },
+            {
+                "id": 2,
+                "title": "Earned",
+                "content": "0.00 Game"
+            },
+            {
+                "id": 3,
+                "title": "APY",
+                "content": "25%"
+            },
+            {
+                "id": 4,
+                "title": "LP Price",
+                "content": "$9,524,07.19"
+            },
+            {
+                "id": 5,
+                "title": "Total Value Locked",
+                "content": "$24571,957.94"
+            }
+        ]
+    },
     "footer": {
         "img": "/img/logo.png",
         "copyright": "©2022 Gameon, All Rights Reserved By",
